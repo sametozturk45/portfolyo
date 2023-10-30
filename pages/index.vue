@@ -10,7 +10,7 @@
             position="center center" />
           <h1 class="white--text"><span id="parallax-text-header">SAMET ÖZTÜRK</span><span id="carrot">|</span></h1>
           <h2 class="white--text" id="parallax-text-desc">Yazılım Geliştiricisi</h2>
-          <v-btn color="secondary" href="/Samet_OZTURK_CV.pdf" class="mt-4" rounded download><v-icon
+          <v-btn color="secondary" href="/SametOZTURK.pdf" class="mt-4" rounded download><v-icon
               class="mr-2">mdi-file</v-icon>Download CV</v-btn>
         </div>
       </div>
